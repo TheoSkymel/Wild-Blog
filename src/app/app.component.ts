@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { HeaderComponent } from '../app/components/HeaderComponents/header.component';
-import { ArticleListComponent } from './article-list/article-list.component';
+import { ArticleListComponent } from './components/HeaderComponents/article-list/article-list.component';
 
 
 @Component({

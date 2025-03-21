@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import  {Article} from '../models/articles.model'
+import  {Article} from '../../../models/articles.model'
 
 @Component({
   selector: 'app-article-list',
